@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which of the following pairs of fractions are equivalent fractions?",
+    "options": [
+      "./assests/optionImg/1.jpg",
+      "./assests/optionImg/2.jpg",
+      "./assests/optionImg/3.jpg",
+      "./assests/optionImg/4.jpg"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which type of fractions always have the same denominators?",
+    "options": [
+      " Proper fractions",
+      "Unit fractions",
+      "Like fractions",
+      "Improper fractions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which fraction lies between 1/13  and 5/13 on the number line?",
+    "options": [
+      "./assests/optionImg/5.jpg",
+      "./assests/optionImg/6.jpg",
+      "./assests/optionImg/7.jpg",
+      "./assests/optionImg/8.jpg"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which of the following fractions is an improper fraction and a like fraction at the same time?",
+    "options": [
+      "./assests/optionImg/9.jpg",
+      "./assests/optionImg/10.jpg",
+      "./assests/optionImg/11.jpg",
+      "./assests/optionImg/12.jpg"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Arrange the given fractions in descending order.<br><img width='90%' src='./assests/images/1.png'>",
+    "options": [
+      "./assests/optionImg/13.jpg",
+      "./assests/optionImg/14.jpg",
+      "./assests/optionImg/15.jpg",
+      "./assests/optionImg/16.jpg"
+    ],
+    "correct": 0
+  }
+]
